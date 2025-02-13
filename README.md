@@ -1,5 +1,4 @@
 # Binance-Trading-ML
-# Binance Trading Account Analysis
 
 ## Overview
 This project analyzes historical trade data from various Binance trading accounts over a 90-day period to evaluate performance, calculate key financial metrics, and rank the top performing accounts. The analysis includes ROI, PnL, Sharpe Ratio, Maximum Drawdown, and other critical trading metrics.
@@ -35,7 +34,7 @@ numpy>=1.20.0
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/adityaanikam/binance-trading-analysis.git
+git clone https://github.com/adityaanikam/Binance-Trading-ML.git
 cd binance-trading-analysis
 ```
 
