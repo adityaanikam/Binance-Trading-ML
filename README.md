@@ -110,6 +110,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 Aditya Nikam
 
-
+## Acknowledgments
 - Data provided by Binance
 - Analysis methodology based on standard financial metrics and risk management practices
